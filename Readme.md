@@ -4,10 +4,7 @@
 <div>
 <a href="https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Server-1.git" target="blank"><img align="center" src="https://i.imgur.com/8n5MytU.jpeg" height="30" width="130" /></a>
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Server-2.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
-<div>
-<a href="https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Server-3.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
-<div>
+
 
   <div>
 <a href="https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Server-4.git" target="blank"><img align="center" src="https://i.imgur.com/TvKY6bS.jpeg" height="30" width="130" /></a>
