@@ -1,8 +1,8 @@
 {
-  "name": "raganork",
+  "name": "KELLYMOWLV4",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "description": "KELLYMOWLV4 whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "main": "./KELLYMOWLV4/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
